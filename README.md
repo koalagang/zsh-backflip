@@ -12,4 +12,5 @@ Documentation todo list:
     - [ ] usage
     - [ ] configuration
 - [ ] credits/thanks
+
 NOTE: there is plenty of documentation as comments in the source code too
